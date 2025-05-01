@@ -1,5 +1,7 @@
 # Astro Supabase Starter
 
+testing purpose
+
 ![Astro Supabase Starter Preview](astro-supabase-starter-preview.png)
 
 **View demo:** [https://astro-supabase-starter.netlify.app/](https://astro-supabase-starter.netlify.app/)
