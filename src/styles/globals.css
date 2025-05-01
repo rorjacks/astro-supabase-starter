@@ -1,5 +1,6 @@
-@import 'tailwindcss';
-@plugin "@tailwindcss/typography";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
 @layer base {
   a {
@@ -12,6 +13,6 @@
     @apply py-4;
   }
   img {
-    @apply border rounded-sm border-neutral-500;
+    @apply border rounded-sm border-gray-500;
   }
 }
